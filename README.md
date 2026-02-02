@@ -23,7 +23,7 @@ Basic COUNT(*)
 Filtering by the required date ranges
 
 No additional transformations or joins were needed
-sql```
+```sql
 SELECT COUNT(*)
 FROM <table_name>
 WHERE <date_column> BETWEEN '<start_date>' AND '<end_date>';```
