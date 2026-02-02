@@ -26,4 +26,4 @@ No additional transformations or joins were needed
 ```sql
 SELECT COUNT(*)
 FROM <table_name>
-WHERE <date_column> BETWEEN '<start_date>' AND '<end_date>';```
+WHERE <date_column> BETWEEN '<start_date>' AND '<end_date>';
